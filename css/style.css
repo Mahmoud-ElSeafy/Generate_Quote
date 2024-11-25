@@ -1,0 +1,33 @@
+h1 {
+    font-family: Impact;
+    font-size: 80px;
+    font-weight: bold;
+    color: #000;
+}
+
+p {
+    font-family: 'Times New Roman';
+    font-size: 35px;
+    color: #000;
+    margin-top: 35px;
+    margin-bottom: 35px;
+
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: blue;
+    --bs-btn-border-color: blue;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: green;
+    --bs-btn-hover-border-color: green;
+    --bs-btn-focus-shadow-rgb: rgb(49, 132, 253);
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: green;
+    --bs-btn-active-border-color: green;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
